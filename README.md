@@ -1,4 +1,4 @@
-# Horus Yoga Exam 🧘‍♂️
+# Horus Yoga Exam
 
 Sebuah web app sederhana berbasis **Flask (Python)** dan **HTML/CSS/JS**, yang berfungsi untuk mengelola data pengguna dengan fitur login, registrasi, update, dan dashboard admin.
 
